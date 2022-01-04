@@ -1,6 +1,13 @@
 # marvel_characters
 
-A new Flutter project.
+Get api key: https://developer.marvel.com/
+<br>
+<br>
+<img src="assets/images/home.png" width="300">
+<img src="assets/images/search.png" width="300">
+<img src="assets/images/detail.png" width="300">
+
+
 
 ## Getting Started
 
