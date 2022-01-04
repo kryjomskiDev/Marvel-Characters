@@ -1,0 +1,1 @@
+enum BottomNavBarItem {home, search}
